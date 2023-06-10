@@ -1,0 +1,185 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#nav
+{
+    background-color: whitesmoke;
+}
+.pg
+{
+    color: aquamarine;
+    font-size: 30px;
+}
+.life
+{
+    color: yellow;
+    font-size: 30px;
+}
+.fa-house-user
+{ 
+   font-size: 30px;
+   
+
+}
+.b-menu
+{
+    
+    background-color:lightgray;
+    padding: 2px 4px;
+   
+
+     
+
+}
+.b-menu ol
+{
+    font-size: 15px;
+    position: relative;
+    top: 8px;
+    
+   
+    
+    
+}
+.b-menu ol li a
+{
+   
+    text-decoration: none;
+   
+}
+.filter
+{
+    border-radius: 100%;
+    border: 1px solid black;
+    
+}
+.highest
+{
+    border-radius: 100%;
+    border: 1px solid black;
+   
+}
+.fa-solid
+{
+    font-size: 25px;
+    font-weight: 25px;
+}
+.lowest
+{
+    border-radius: 100%;
+    border: 1px solid black;
+    
+}
+.filBar
+{
+    background-color: lightyellow;
+}
+.info
+{
+    border: 2px solid red;
+}
+.pgone
+{
+    
+    
+    margin: 0px;
+    padding: 0px;
+}
+.imgsec
+{
+  
+    border: 3px solid whitesmoke;
+  
+}
+.imgsec:hover
+{
+    box-shadow: 2px 2px 5px 2px gray;
+}
+.datasec:hover
+{
+    box-shadow: 2px 2px 5px 2px gray;
+}
+
+.fa-location-dot
+{
+    color:lightseagreen;
+    font-size: 18px;
+}
+.datasec
+{
+
+    border: 3px solid whitesmoke;
+    
+    
+   
+}
+  
+.first
+{
+    
+}
+.checked
+{
+    color: orangered;
+}
+.interested
+{
+    float: right;
+}
+.fa-heart
+{
+    font-size: 25px;
+}
+.fa-person
+{
+    color: red;
+    font-size: 25px;
+    cursor: pointer;
+}
+.details
+{
+    float: right;
+}
+.fa-person-dress
+{
+    color: lightseagreen;
+}
+@media screen and (min-width:480px)
+{
+.first
+{
+      height: 100%;
+      width: 100%;    
+}
+}
+@media screen and (min-width:480px)
+{
+.second
+{
+      height: 100%;
+      width: 100%;    
+}
+}
+@media screen and (min-width:480px)
+{
+ .details
+ {
+    margin-right: 0px;
+ }   
+}
+.footer
+{
+    background-color: black;
+    color: white;
+}
+.container-fluid
+{
+    padding: 0px;
+}
+
+
+
+

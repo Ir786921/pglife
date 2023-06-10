@@ -1,0 +1,145 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#nav
+{
+    background-color: aliceblue;
+}
+.pg
+{
+    color: aquamarine;
+    font-size: 30px;
+}
+.life
+{
+    color: yellow;
+    font-size: 30px;
+}
+.fa-house-user
+{ 
+   font-size: 30px;
+   
+
+}
+.title
+{
+    text-align: center;
+    color: azure;
+    position: relative;
+    top: 30%;
+}
+.container-fluid
+{
+    padding: 0%;
+}
+.fa-user-large
+{
+    font-size: 125px;
+}
+.pic
+{
+    background: white;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    border: 1px solid grey;
+}
+.edit
+{
+    float: right;
+    border-bottom: 2px solid lightgrey;
+}
+.profile
+{
+
+    background-color: #dff9fb;
+}
+
+
+.fa-location-dot
+{
+    color:lightseagreen;
+    font-size: 18px;
+}
+.datasec
+{
+
+    border: 3px solid whitesmoke;
+}
+.checked
+{
+    color: orangered;
+}
+.interested
+{
+    float: right;
+}
+.fa-heart
+{
+    font-size: 25px;
+}
+.fa-person
+{
+    color: red;
+    font-size: 25px;
+    cursor: pointer;
+}
+.details
+{
+    float: right;
+}
+.fa-person-dress
+{
+    color: lightseagreen;
+    font-size: 25px;
+    cursor: pointer;
+}
+@media screen and (min-width:480px)
+{
+.first
+{
+      height: 100%;
+      width: 100%;    
+}
+}
+@media screen and (min-width:480px)
+{
+.second
+{
+      height: 100%;
+      width: 100%;    
+}
+}
+@media screen and (min-width:480px)
+{
+ .details
+ {
+    margin-right: 0px;
+ }   
+}
+.footer
+{
+    background-color: black;
+    color: white;
+}
+.imgsec
+{
+  
+    border: 3px solid whitesmoke;
+  
+}
+.imgsec:hover
+{
+    box-shadow: 2px 2px 5px 2px gray;
+}
+.datasec:hover
+{
+    box-shadow: 2px 2px 5px 2px gray;
+}

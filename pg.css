@@ -1,0 +1,203 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#nav
+{
+    background-color: aliceblue;
+}
+.pg
+{
+    color: aquamarine;
+    font-size: 30px;
+}
+.life
+{
+    color: yellow;
+    font-size: 30px;
+}
+.fa-house-user
+{ 
+   font-size: 30px;
+   
+
+}
+.title
+{
+    text-align: center;
+    color: azure;
+    position: relative;
+    top: 30%;
+}
+.twosec
+{
+    background-image:linear-gradient(to right, rgba(4,9,30,0.7) , rgba(4,9,30,0.7)),url(./pexels-fox-1595391.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 315px;
+}
+#btn
+{
+    display: inline-block;
+}
+.Search
+{
+   
+    position: relative;
+    top: 35%;
+    
+  
+
+}
+#search>input
+{
+    padding: 8px 12px;
+    width: 650px;
+}
+.delhi 
+{
+    background: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    border: 1px solid grey;
+}
+.delhi:hover
+{
+    box-shadow: 3px 3px 4px 3px lightgray;
+    cursor: pointer;
+}
+.mumbai
+{
+    background: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid grey;
+}
+.mumbai:hover
+{
+    box-shadow: 2px 2px 5px 2px lightgray;
+    cursor: pointer;
+}
+.hyderabad
+{
+    background: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid grey;
+}
+.hyderabad:hover
+{
+    box-shadow: 2px 2px 5px 2px lightgray;
+    cursor: pointer;
+}
+.banglore
+{
+    background: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid grey;
+}
+.banglore:hover
+{
+    box-shadow: 2px 2px 5px 2px lightgray;
+    cursor: pointer;
+}
+.headt
+{
+    text-align: center;
+    margin: 0%;
+    
+}
+.footer
+{
+    background-color: rgba(0, 0, 0, 0.941);
+    color: white;
+    
+}
+.city
+{
+    align-items: center;
+   
+}
+.headt::after
+{
+    height: 3px;
+    content:" ";
+    background-color: lightslategray;
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+}
+.fas
+{
+    color: white;
+    height: 25px;
+}
+.icon
+{
+   
+    padding: 8px 12px;
+    text-align: center;
+    color:white;
+    min-height: 50px;
+}
+.sign-item
+{
+    width:270px ;
+    border: 1px solid grey;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+.result-box
+{
+    background-color: white;
+    position: relative;
+    top: 35%;
+   
+    
+}
+.result-box ul
+{
+   
+    border-top: 1px solid #999;
+    padding: 15px 10px;
+}
+.result-box ul li
+{
+    list-style: none;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.result-box ul li:hover
+{
+    background-color: lightsteelblue;
+}
+
+
+
+
